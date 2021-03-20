@@ -1,0 +1,11 @@
+C:\Users\Fernando\Documents\Projetos\dotnet\01-EstruturaDoPrograma\bin\Debug\netcoreapp3.0\EstruturaDoPrograma.exe
+C:\Users\Fernando\Documents\Projetos\dotnet\01-EstruturaDoPrograma\bin\Debug\netcoreapp3.0\EstruturaDoPrograma.deps.json
+C:\Users\Fernando\Documents\Projetos\dotnet\01-EstruturaDoPrograma\bin\Debug\netcoreapp3.0\EstruturaDoPrograma.runtimeconfig.json
+C:\Users\Fernando\Documents\Projetos\dotnet\01-EstruturaDoPrograma\bin\Debug\netcoreapp3.0\EstruturaDoPrograma.runtimeconfig.dev.json
+C:\Users\Fernando\Documents\Projetos\dotnet\01-EstruturaDoPrograma\bin\Debug\netcoreapp3.0\EstruturaDoPrograma.dll
+C:\Users\Fernando\Documents\Projetos\dotnet\01-EstruturaDoPrograma\bin\Debug\netcoreapp3.0\EstruturaDoPrograma.pdb
+C:\Users\Fernando\Documents\Projetos\dotnet\01-EstruturaDoPrograma\obj\Debug\netcoreapp3.0\EstruturaDoPrograma.csprojAssemblyReference.cache
+C:\Users\Fernando\Documents\Projetos\dotnet\01-EstruturaDoPrograma\obj\Debug\netcoreapp3.0\EstruturaDoPrograma.AssemblyInfoInputs.cache
+C:\Users\Fernando\Documents\Projetos\dotnet\01-EstruturaDoPrograma\obj\Debug\netcoreapp3.0\EstruturaDoPrograma.AssemblyInfo.cs
+C:\Users\Fernando\Documents\Projetos\dotnet\01-EstruturaDoPrograma\obj\Debug\netcoreapp3.0\EstruturaDoPrograma.dll
+C:\Users\Fernando\Documents\Projetos\dotnet\01-EstruturaDoPrograma\obj\Debug\netcoreapp3.0\EstruturaDoPrograma.pdb
